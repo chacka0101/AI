@@ -27,7 +27,7 @@ Un agente de IA en n8n es un nodo que utilizas en un modelo de inteligencia arti
 
 Estos tienen 3 conexiones habitualmente: 
 * MODELO    -     MEMORIA    -    HERRAMIENTA
-* OPENAI          DB              Whatsapp
+* OPENAI    -     DB         -    Whatsapp
 
 ### Artificial Intelligence Resources
 
