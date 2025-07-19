@@ -21,11 +21,13 @@ JSON - Estructura de Clave-Valor:
 JSON organiza los datos en pares de clave y valor. Es como n8n maneja y transfiere los datos entre nodos. Permite organizar la información de forma estructurada para que otros nodos puedan usarla fácilmente.
 
 
-AGENTES IA 
-Un agente de IA en n8n es un nodo que utilizas en un modelo de inteligencia artificial. Para realizar tareas dentro de un flujo de trabajo automatizado. 
+AGENTES IA
+
+Un agente de IA en n8n es un nodo que utilizas en un modelo de inteligencia artificial. Para realizar tareas dentro de un flujo de trabajo automatizado.
+
 Estos tienen 3 conexiones habitualmente: 
-MODELO    -     MEMORIA    -    HERRAMIENTA
-OPENAI          DB              Whatsapp
+* MODELO    -     MEMORIA    -    HERRAMIENTA
+* OPENAI          DB              Whatsapp
 
 ### Artificial Intelligence Resources
 
