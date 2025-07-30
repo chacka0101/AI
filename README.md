@@ -31,6 +31,8 @@ Estos tienen 3 conexiones habitualmente:
 
 ### Artificial Intelligence Resources
 
+* * https://github.com/DragonJAR/n8n-workflows-es
+* https://github.com/ethiack/ai4eh
 * https://vectorizer.ai/
 * https://aitoolsdirectory.com/
 * https://www.axur.com/es-es/deep-dark-web
