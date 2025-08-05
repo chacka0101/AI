@@ -31,7 +31,8 @@ Estos tienen 3 conexiones habitualmente:
 
 ### Artificial Intelligence Resources
 
-* * https://github.com/DragonJAR/n8n-workflows-es
+* https://lab10.ai/talleres/lovable
+* https://github.com/DragonJAR/n8n-workflows-es
 * https://github.com/ethiack/ai4eh
 * https://vectorizer.ai/
 * https://aitoolsdirectory.com/
