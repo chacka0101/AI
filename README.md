@@ -39,5 +39,6 @@ Estos tienen 3 conexiones habitualmente:
 * https://www.axur.com/es-es/deep-dark-web
 * https://www.gravity-testing.com/
 * https://github.com/aerophile/awesome-deepfakes (DEEPFAKES)
+* https://github.com/CertAcademico/MitM-GPT
 
 --- END ---
